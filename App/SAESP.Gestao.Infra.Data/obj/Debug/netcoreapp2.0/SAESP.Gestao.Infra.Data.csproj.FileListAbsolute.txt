@@ -1,0 +1,13 @@
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.deps.json
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\bin\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\bin\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.csprojResolveAssemblyReference.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.csproj.CoreCompileInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.AssemblyInfoInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.AssemblyInfo.cs
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.Data\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.Data.pdb

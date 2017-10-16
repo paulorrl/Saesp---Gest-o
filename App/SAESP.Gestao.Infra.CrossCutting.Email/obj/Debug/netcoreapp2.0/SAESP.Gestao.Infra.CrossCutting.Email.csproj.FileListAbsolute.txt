@@ -1,0 +1,11 @@
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.deps.json
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.csprojResolveAssemblyReference.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.csproj.CoreCompileInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.AssemblyInfoInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.AssemblyInfo.cs
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Email\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Email.pdb

@@ -1,0 +1,8 @@
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.deps.json
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.dll
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.pdb
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\obj\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.csproj.CoreCompileInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\obj\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.AssemblyInfoInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\obj\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.AssemblyInfo.cs
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\obj\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.dll
+D:\RMC Brothers\App\SAESP.Gestao.SharedKernel\obj\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.pdb

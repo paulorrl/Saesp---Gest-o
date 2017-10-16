@@ -1,0 +1,11 @@
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.deps.json
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.csprojResolveAssemblyReference.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.AssemblyInfoInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.AssemblyInfo.cs
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.dll
+D:\RMC Brothers\App\SAESP.Gestao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp2.0\SAESP.Gestao.Infra.CrossCutting.Ioc.pdb

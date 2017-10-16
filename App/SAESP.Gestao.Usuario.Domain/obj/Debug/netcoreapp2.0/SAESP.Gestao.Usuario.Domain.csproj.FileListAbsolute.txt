@@ -1,0 +1,11 @@
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\bin\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.deps.json
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\bin\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.dll
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\bin\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.dll
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\bin\Debug\netcoreapp2.0\SAESP.Gestao.SharedKernel.pdb
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\obj\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.csprojResolveAssemblyReference.cache
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\obj\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.csproj.CoreCompileInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\obj\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.AssemblyInfoInputs.cache
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\obj\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.AssemblyInfo.cs
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\obj\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.dll
+D:\RMC Brothers\App\SAESP.Gestao.Usuario.Domain\obj\Debug\netcoreapp2.0\SAESP.Gestao.Usuario.Domain.pdb
